@@ -1,0 +1,8 @@
+:host {
+  display: block;
+}
+.mysquare{
+  height: 50px;
+  aspect-ratio: 1;
+  background-color: red;
+}
